@@ -1,5 +1,3 @@
-# learn-english
-Learning English
 # Изучения английского
 
 **Общяя информация:**
